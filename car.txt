@@ -2,6 +2,3 @@ this is a car file
 
 
 hii all
-
-
-updating file
